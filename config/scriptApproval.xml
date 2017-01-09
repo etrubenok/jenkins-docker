@@ -3,6 +3,9 @@
   <approvedScriptHashes>
   </approvedScriptHashes>
   <approvedSignatures>
+    <string>method java.io.File mkdir</string>
+    <string>new org.yaml.snakeyaml.Yaml</string>
+    <string>method org.yaml.snakeyaml.Yaml load java.lang.String</string>
     <string>method io.fabric8.kubernetes.api.model.KubernetesResourceList getItems</string>
     <string>method io.fabric8.kubernetes.client.dsl.KubernetesDSL nodes</string>
     <string>method io.fabric8.kubernetes.client.dsl.Listable list</string>
